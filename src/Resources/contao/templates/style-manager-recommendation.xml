@@ -34,32 +34,6 @@
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
       </child>
-      <child alias="boxedListElement">
-        <field title="id">4</field>
-        <field title="pid">2</field>
-        <field title="sorting">384</field>
-        <field title="tstamp">1619424804</field>
-        <field title="alias">boxedListElement</field>
-        <field title="title">Boxed &amp;#40;List-Elements&amp;#41;</field>
-        <field title="description"></field>
-        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:24:"boxed text-color-regular";s:5:"value";s:5:"Aktiv";}}</field>
-        <field title="cssClass"></field>
-        <field title="chosen">1</field>
-        <field title="blankOption">1</field>
-        <field title="passToTemplate">1</field>
-        <field title="extendLayout"></field>
-        <field title="extendPage"></field>
-        <field title="extendArticle"></field>
-        <field title="extendForm"></field>
-        <field title="extendFormFields"></field>
-        <field title="formFields">NULL</field>
-        <field title="extendContentElement">1</field>
-        <field title="contentElements">a:3:{i:0;s:19:"rsce_icon_text_list";i:1;s:20:"rsce_image_text_list";i:2;s:14:"rsce_text_list";}</field>
-        <field title="extendModule">1</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
-        <field title="extendNews"></field>
-        <field title="extendEvents"></field>
-      </child>
       <child alias="boxed-shadow">
         <field title="id">5</field>
         <field title="pid">2</field>
