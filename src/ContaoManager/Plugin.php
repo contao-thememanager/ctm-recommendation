@@ -26,8 +26,10 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(ContaoThemeManagerRecommendation::class)
-                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class])
-                ->setReplace(['ctm-recommendation']),
+                ->setLoadAfter([
+                    ContaoCoreBundle::class,
+                    ContaoThemeManagerCore::class
+                ])->setReplace(['ctm-recommendation']),
         ];
     }
 }
