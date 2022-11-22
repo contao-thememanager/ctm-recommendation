@@ -1,51 +1,53 @@
 {
-  "name":"contao-thememanager/ctm-recommendation",
-  "type":"contao-bundle",
-  "description":"Recommendation integration for Contao Theme-Manager",
-  "keywords":["recommendation","theme"],
-  "homepage":"https://www.oveleon.de/",
-  "license":"MIT",
-  "authors":[
-    {
-      "name":"Oveleon",
-      "homepage":"https://oveleon.de/",
-      "role":"Developer"
-    },
-    {
-      "name":"Daniele Sciannimanica",
-      "homepage":"https://github.com/doishub",
-      "role":"Developer"
-    }
-  ],
-  "require":{
-    "php":"^7.0 || ^8.0",
-    "contao/core-bundle":"^4.9",
-    "oveleon/contao-recommendation-bundle":"^1.0",
-    "contao-thememanager/core":"^1.0"
-  },
-  "require-dev": {
-    "contao/manager-plugin": "^2.0"
-  },
-  "conflict": {
-    "contao/core": "*",
-    "contao/core-bundle": "4.4.1",
-    "contao/manager-plugin": "<2.0 || >=3.0"
-  },
-  "autoload":{
-    "psr-4": {
-      "ContaoThemeManager\\Recommendation\\": "src/"
-    },
-    "classmap": [
-      "src/Resources/contao/"
+    "name": "contao-thememanager/ctm-recommendation",
+    "type": "contao-bundle",
+    "description": "Recommendation integration for Contao Theme-Manager",
+    "keywords": ["recommendation","theme"],
+    "homepage": "https://www.oveleon.de/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oveleon",
+            "homepage": "https://oveleon.de/",
+            "role": "Developer"
+        },
+        {
+            "name": "Daniele Sciannimanica",
+            "homepage": "https://github.com/doishub",
+            "role": "Developer"
+        }
     ],
-    "exclude-from-classmap": [
-      "src/Resources/contao/config/",
-      "src/Resources/contao/dca/",
-      "src/Resources/contao/languages/",
-      "src/Resources/contao/templates/"
-    ]
-  },
-  "extra":{
-    "contao-manager-plugin": "ContaoThemeManager\\Recommendation\\ContaoManager\\Plugin"
-  }
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "contao/core-bundle": "^4.13",
+        "oveleon/contao-recommendation-bundle": "^1.2",
+        "contao-thememanager/core": "^1.5"
+    },
+    "require-dev": {
+        "contao/manager-plugin": "^2.3.1"
+    },
+    "conflict": {
+        "contao/core": "*",
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ContaoThemeManager\\Recommendation\\": "src/"
+        },
+        "classmap": [
+            "contao/"
+        ],
+        "exclude-from-classmap": [
+            "contao/config/",
+            "contao/dca/",
+            "contao/languages/",
+            "contao/templates/"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1.x-dev"
+        },
+        "contao-manager-plugin": "ContaoThemeManager\\Recommendation\\ContaoManager\\Plugin"
+    }
 }
