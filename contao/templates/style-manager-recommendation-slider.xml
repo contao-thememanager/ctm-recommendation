@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archives>
+
+  <archive identifier="sliderConfig">
+    <field title="identifier">sliderConfig</field>
+    <children>
+      <child alias="init">
+        <field title="alias">init</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navColor">
+        <field title="alias">navColor</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsColor">
+        <field title="alias">controlsColor</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="slider">
+    <field title="identifier">slider</field>
+    <children>
+      <child alias="mode">
+        <field title="alias">mode</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="axis">
+        <field title="alias">axis</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="loop">
+        <field title="alias">loop</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="rewind">
+        <field title="alias">rewind</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="swipeAngle">
+        <field title="alias">swipeAngle</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsPosition">
+        <field title="alias">controlsPosition</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesign">
+        <field title="alias">controlsDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navPosition">
+        <field title="alias">navPosition</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayPosition">
+        <field title="alias">autoplayPosition</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayDirection">
+        <field title="alias">autoplayDirection</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="sliderXS">
+    <field title="identifier">sliderXS</field>
+    <children>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesignXS">
+        <field title="alias">controlsDesignXS</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="sliderS">
+    <field title="identifier">sliderS</field>
+    <children>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesignS">
+        <field title="alias">controlsDesignS</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="sliderM">
+    <field title="identifier">sliderM</field>
+    <children>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesignM">
+        <field title="alias">controlsDesignM</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="sliderL">
+    <field title="identifier">sliderL</field>
+    <children>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesignL">
+        <field title="alias">controlsDesignL</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="sliderXL">
+    <field title="identifier">sliderXL</field>
+    <children>
+      <child alias="speed">
+        <field title="alias">speed</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoHeight">
+        <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="mouseDrag">
+        <field title="alias">mouseDrag</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="arrowKeys">
+        <field title="alias">arrowKeys</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="disable">
+        <field title="alias">disable</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="items">
+        <field title="alias">items</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="slideBy">
+        <field title="alias">slideBy</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="gutter">
+        <field title="alias">gutter</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="startIndex">
+        <field title="alias">startIndex</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="edgePadding">
+        <field title="alias">edgePadding</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controls">
+        <field title="alias">controls</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="controlsDesignXL">
+        <field title="alias">controlsDesignXL</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="nav">
+        <field title="alias">nav</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navDesign">
+        <field title="alias">navDesign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplay">
+        <field title="alias">autoplay</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayTimeout">
+        <field title="alias">autoplayTimeout</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="autoplayHoverPause">
+        <field title="alias">autoplayHoverPause</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+
+</archives>

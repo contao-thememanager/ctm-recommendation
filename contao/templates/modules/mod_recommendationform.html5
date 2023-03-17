@@ -1,4 +1,10 @@
-<?php $this->extend('block_unsearchable'); ?>
+<?php
+  $sm = $this->styleManager;
+  $aClasses    = $sm->prepare('eLink')->format(' %s');
+  $formClasses = $sm->prepare('cGridGutter')->format(' %s');
+
+  $this->extend('block_unsearchable');
+?>
 
 <?php $this->block('content'); ?>
 
@@ -7,7 +13,7 @@
   <?php if ($this->confirm): ?>
     <p class="tl_confirm"><?= $this->confirm ?></p>
   <?php else: ?>
-    <form id="<?= $this->formId ?>" method="post"<?=$this->styleManager->prepare('gridForm', ['recommendationFormGrid'])->format(' class="%s"')?>>
+    <form id="<?= $this->formId ?>" method="post" class="grid gtr-f<?= $formClasses ?>">
       <div class="formbody inside">
         <input type="hidden" name="FORM_SUBMIT" value="<?= $this->formId ?>">
         <input type="hidden" name="REQUEST_TOKEN" value="{{request_token}}">
@@ -16,7 +22,7 @@
         <?php endforeach; ?>
 
         <div class="widget widget-submit">
-          <button type="submit" class="submit"><?= $this->submit ?></button>
+          <button type="submit" class="submit<?= $aClasses ?>"><?= $this->submit ?></button>
         </div>
       </div>
     </form>
