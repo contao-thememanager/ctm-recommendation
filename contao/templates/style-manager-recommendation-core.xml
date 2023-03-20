@@ -91,6 +91,19 @@
       </child>
     </children>
   </archive>
+  <archive identifier="gPagination">
+    <field title="identifier">gPagination</field>
+    <children>
+      <child alias="justifyPagination">
+        <field title="alias">justifyPagination</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="alignPagination">
+        <field title="alias">alignPagination</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
 
   <archive identifier="cLayout">
     <field title="identifier">cLayout</field>
@@ -217,7 +230,6 @@
       </child>
     </children>
   </archive>
-
   <archive identifier="cGridGutter">
     <field title="identifier">cGridGutter</field>
     <children>
@@ -227,7 +239,15 @@
       </child>
     </children>
   </archive>
-
+  <archive identifier="cText">
+    <field title="identifier">cText</field>
+    <children>
+      <child alias="templateTextColor">
+        <field title="alias">templateTextColor</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
   <archive identifier="cSpacing">
     <field title="identifier">cSpacing</field>
     <children>
@@ -438,6 +458,35 @@
       </child>
       <child alias="alignment">
         <field title="alias">alignment</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+    </children>
+  </archive>
+  <archive identifier="eImage">
+    <field title="identifier">eImage</field>
+    <children>
+      <child alias="scale">
+        <field title="alias">scale</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="width">
+        <field title="alias">width</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imgAlign">
+        <field title="alias">imgAlign</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="objectFit">
+        <field title="alias">objectFit</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="objectPosX">
+        <field title="alias">objectPosX</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="objectPosY">
+        <field title="alias">objectPosY</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
     </children>
