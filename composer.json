@@ -1,58 +1,58 @@
 {
-    "name": "contao-thememanager/ctm-recommendation",
-    "type": "contao-bundle",
-    "description": "Recommendation integration for Contao Theme-Manager",
-    "keywords": ["recommendation","theme"],
-    "homepage": "https://www.oveleon.de/",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Oveleon",
-            "homepage": "https://oveleon.de/",
-            "role": "Developer"
-        },
-        {
-            "name": "Sebastian Zoglowek",
-            "homepage": "https://github.com/zoglo",
-            "role": "Developer"
-        },
-        {
-            "name": "Daniele Sciannimanica",
-            "homepage": "https://github.com/doishub",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": "^8.0",
-        "contao/core-bundle": "^4.13",
-        "oveleon/contao-recommendation-bundle": "^1.2",
-        "contao-thememanager/core": "^2.0"
+  "name": "contao-thememanager/ctm-recommendation",
+  "type": "contao-bundle",
+  "description": "Recommendation integration for Contao Theme-Manager",
+  "keywords": ["recommendation", "theme"],
+  "homepage": "https://www.oveleon.de/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oveleon",
+      "homepage": "https://oveleon.de/",
+      "role": "Developer"
     },
-    "require-dev": {
-        "contao/manager-plugin": "^2.3.1"
+    {
+      "name": "Sebastian Zoglowek",
+      "homepage": "https://github.com/zoglo",
+      "role": "Developer"
     },
-    "conflict": {
-        "contao/core": "*",
-        "contao/manager-plugin": "<2.0 || >=3.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "ContaoThemeManager\\Recommendation\\": "src/"
-        },
-        "classmap": [
-            "contao/"
-        ],
-        "exclude-from-classmap": [
-            "contao/config/",
-            "contao/dca/",
-            "contao/languages/",
-            "contao/templates/"
-        ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        },
-        "contao-manager-plugin": "ContaoThemeManager\\Recommendation\\ContaoManager\\Plugin"
+    {
+      "name": "Daniele Sciannimanica",
+      "homepage": "https://github.com/doishub",
+      "role": "Developer"
     }
+  ],
+  "require": {
+    "php": "^8.1",
+    "contao/core-bundle": "^4.13 || 5.1.*",
+    "oveleon/contao-recommendation-bundle": "^1.3",
+    "contao-thememanager/core": "^2.0"
+  },
+  "require-dev": {
+    "contao/manager-plugin": "^2.3.1"
+  },
+  "conflict": {
+    "contao/core": "*",
+    "contao/manager-plugin": "<2.0 || >=3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ContaoThemeManager\\Recommendation\\": "src/"
+    },
+    "classmap": [
+      "contao/"
+    ],
+    "exclude-from-classmap": [
+      "contao/config/",
+      "contao/dca/",
+      "contao/languages/",
+      "contao/templates/"
+    ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.x-dev"
+    },
+    "contao-manager-plugin": "ContaoThemeManager\\Recommendation\\ContaoManager\\Plugin"
+  }
 }
