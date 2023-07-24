@@ -6,59 +6,59 @@
     <children>
       <child alias="spacingGlobal">
         <field title="alias">spacingGlobal</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacing">
         <field title="alias">spacing</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacingXS">
         <field title="alias">spacingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacingS">
         <field title="alias">spacingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacingM">
         <field title="alias">spacingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacingL">
         <field title="alias">spacingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="spacingXL">
         <field title="alias">spacingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignment">
         <field title="alias">alignment</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignmentXS">
         <field title="alias">alignmentXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignmentS">
         <field title="alias">alignmentS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignmentM">
         <field title="alias">alignmentM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignmentL">
         <field title="alias">alignmentL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="alignmentXL">
         <field title="alias">alignmentXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="hlTextColor">
         <field title="alias">hlTextColor</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -110,7 +110,7 @@
     <children>
       <child alias="box">
         <field title="alias">box</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -119,27 +119,27 @@
     <children>
       <child alias="col">
         <field title="alias">col</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="colXS">
         <field title="alias">colXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="colS">
         <field title="alias">colS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="colM">
         <field title="alias">colM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="colL">
         <field title="alias">colL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="colXL">
         <field title="alias">colXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -148,27 +148,27 @@
     <children>
       <child alias="offset">
         <field title="alias">offset</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="offsetXS">
         <field title="alias">offsetXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="offsetS">
         <field title="alias">offsetS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="offsetM">
         <field title="alias">offsetM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="offsetL">
         <field title="alias">offsetL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="offsetXL">
         <field title="alias">offsetXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -177,27 +177,27 @@
     <children>
       <child alias="order">
         <field title="alias">order</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="orderXS">
         <field title="alias">orderXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="orderS">
         <field title="alias">orderS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="orderM">
         <field title="alias">orderM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="orderL">
         <field title="alias">orderL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="orderXL">
         <field title="alias">orderXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -206,27 +206,27 @@
     <children>
       <child alias="gridSelfAlignment">
         <field title="alias">gridSelfAlignment</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="gridSelfAlignmentXS">
         <field title="alias">gridSelfAlignmentXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="gridSelfAlignmentS">
         <field title="alias">gridSelfAlignmentS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="gridSelfAlignmentM">
         <field title="alias">gridSelfAlignmentM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="gridSelfAlignmentL">
         <field title="alias">gridSelfAlignmentL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="gridSelfAlignmentXL">
         <field title="alias">gridSelfAlignmentXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -253,99 +253,99 @@
     <children>
       <child alias="topSpacing">
         <field title="alias">topSpacing</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="topSpacingXS">
         <field title="alias">topSpacingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="topSpacingS">
         <field title="alias">topSpacingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="topSpacingM">
         <field title="alias">topSpacingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="topSpacingL">
         <field title="alias">topSpacingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="topSpacingXL">
         <field title="alias">topSpacingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacing">
         <field title="alias">bottomSpacing</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacingXS">
         <field title="alias">bottomSpacingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacingS">
         <field title="alias">bottomSpacingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacingM">
         <field title="alias">bottomSpacingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacingL">
         <field title="alias">bottomSpacingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="bottomSpacingXL">
         <field title="alias">bottomSpacingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacing">
         <field title="alias">leftSpacing</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacingXS">
         <field title="alias">leftSpacingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacingS">
         <field title="alias">leftSpacingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacingM">
         <field title="alias">leftSpacingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacingL">
         <field title="alias">leftSpacingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="leftSpacingXL">
         <field title="alias">leftSpacingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacing">
         <field title="alias">rightSpacing</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacingXS">
         <field title="alias">rightSpacingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacingS">
         <field title="alias">rightSpacingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacingM">
         <field title="alias">rightSpacingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacingL">
         <field title="alias">rightSpacingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="rightSpacingXL">
         <field title="alias">rightSpacingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -354,27 +354,27 @@
     <children>
       <child alias="padding">
         <field title="alias">padding</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="paddingXS">
         <field title="alias">paddingXS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="paddingS">
         <field title="alias">paddingS</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="paddingM">
         <field title="alias">paddingM</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="paddingL">
         <field title="alias">paddingL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="paddingXL">
         <field title="alias">paddingXL</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
@@ -383,31 +383,31 @@
     <children>
       <child alias="color">
         <field title="alias">color</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="image">
         <field title="alias">image</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="attachment">
         <field title="alias">attachment</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="repeat">
         <field title="alias">repeat</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="size">
         <field title="alias">size</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="posx">
         <field title="alias">posx</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
       <child alias="posy">
         <field title="alias">posy</field>
-        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+        <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
     </children>
   </archive>
