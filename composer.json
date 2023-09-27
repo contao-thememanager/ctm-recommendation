@@ -4,7 +4,6 @@
   "description": "Recommendation integration for Contao Theme-Manager",
   "keywords": ["recommendation", "theme"],
   "homepage": "https://www.oveleon.de/",
-  "license": "MIT",
   "authors": [
     {
       "name": "Oveleon",
