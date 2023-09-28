@@ -3,7 +3,7 @@
   "type": "contao-bundle",
   "description": "Recommendation integration for Contao Theme-Manager",
   "keywords": ["recommendation", "theme"],
-  "homepage": "https://www.oveleon.de/",
+  "homepage": "https://www.contao-thememanager.com/",
   "authors": [
     {
       "name": "Oveleon",
