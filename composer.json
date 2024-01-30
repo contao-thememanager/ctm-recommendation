@@ -23,9 +23,9 @@
   ],
   "require": {
     "php": "^8.1",
-    "contao/core-bundle": "^4.13 || 5.1.* || 5.2.*",
+    "contao/core-bundle": "^4.13 || ^5.2",
     "oveleon/contao-recommendation-bundle": "^1.4",
-    "contao-thememanager/core": "^2.0"
+    "contao-thememanager/core": "^2.0.8"
   },
   "require-dev": {
     "contao/manager-plugin": "^2.3.1"
