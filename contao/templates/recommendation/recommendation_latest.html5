@@ -2,17 +2,21 @@
   <div class="inside">
 
     <?php if ($this->addRecommendationImage): ?>
-      <?php if ($this->addInternalImage): ?>
-        <div class="c_image">
-          <?php $this->insert('image', $this->arrData); ?>
-        </div>
-      <?php elseif ($this->addExternalImage): ?>
-        <div class="c_image">
-          <figure class="image_container">
-            <img src="<?= $this->imageUrl ?>" width="128" height="128" itemprop="image">
-          </figure>
-        </div>
-      <?php endif; ?>
+      <div class="c_image">
+          <?php if ($this->addInternalImage): ?>
+            <?php $this->insert('image', $this->arrData); ?>
+          <?php elseif ($this->addExternalImage): ?>
+            <figure class="image_container">
+              <img src="<?= $this->imageUrl ?>" width="128" height="128" itemprop="image">
+            </figure>
+          <?php else: ?>
+            <figure class="image_container">
+              <svg xmlns="http://www.w3.org/2000/svg" version="1.0" viewBox="43 30 510 510" style="background:#ccc">
+                <path fill="#fff" d="M290 90c-44 6-77 33-89 73-2 7-2 10-2 22s2 37 4 46c0 2 0 3-3 3-5 2-7 7-7 20 0 10 2 33 4 39 2 8 8 14 13 14 2 0 2 0 4 11 5 21 11 37 19 46l5 5v55l-15 7a811 811 0 0 1-96 37c-13 2-25 6-39 13-31 16-53 47-63 88-3 9-6 26-6 29 0 2 14 2 282 2h282v-7c-2-16-9-39-16-55-9-19-25-39-41-49-15-10-34-18-50-22l-20-5c-13-4-49-18-78-32l-14-6v-54l4-5c9-12 15-26 19-45l3-13 3-1c4 0 8-3 10-8 3-7 4-13 6-33 2-18 1-25-4-29l-4-2-1-5c6-47 5-62-5-84a99 99 0 0 0-75-53c-8-2-25-3-31-2z"/>
+              </svg>
+            </figure>
+          <?php endif; ?>
+      </div>
     <?php endif; ?>
 
     <?php if ($this->headlineLink): ?>
