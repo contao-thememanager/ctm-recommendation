@@ -112,6 +112,30 @@
         <field title="alias">box</field>
         <field title="modules">a:2:{i:0;s:18:"recommendationlist";i:1;s:18:"recommendationform";}</field>
       </child>
+      <child alias="imageText">
+        <field title="alias">imageText</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imageTextAlignmentY">
+        <field title="alias">imageTextAlignmentY</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imageTextAlignmentX">
+        <field title="alias">imageTextAlignmentX</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imageTextWidth">
+        <field title="alias">imageTextWidth</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imageTextImgOutset">
+        <field title="alias">imageTextImgOutset</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="imageTextImgStretch">
+        <field title="alias">imageTextImgStretch</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
     </children>
   </archive>
   <archive identifier="cGridColumn">

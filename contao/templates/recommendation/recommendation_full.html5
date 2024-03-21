@@ -38,7 +38,6 @@
         <?php if ($this->addLocation): ?>
           <span class="location"><?= $this->location ?></span>
         <?php endif; ?>
-
         <?php if ($this->addDate): ?>
           <span class="date"><time datetime="<?= $this->datetime ?>" itemprop="datePublished"><?= $this->date ?></time></span>
         <?php endif; ?>
@@ -48,6 +47,5 @@
     <div class="text" itemprop="description">
       <?= $this->text ?>
     </div>
-
   </div>
 </div>
