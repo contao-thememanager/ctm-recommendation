@@ -45,6 +45,10 @@
         <field title="alias">rewind</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="alias">mouseDrag</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
@@ -93,6 +97,10 @@
         <field title="alias">controlsPosition</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
+      <child alias="controlsBehavior">
+        <field title="alias">controlsBehavior</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
       <child alias="controlsDesign">
         <field title="alias">controlsDesign</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
@@ -103,6 +111,10 @@
       </child>
       <child alias="navPosition">
         <field title="alias">navPosition</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="navBehavior">
+        <field title="alias">navBehavior</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
       <child alias="navDesign">
@@ -140,6 +152,10 @@
       </child>
       <child alias="autoHeight">
         <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
       <child alias="mouseDrag">
@@ -219,6 +235,10 @@
         <field title="alias">autoHeight</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="alias">mouseDrag</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
@@ -294,6 +314,10 @@
       </child>
       <child alias="autoHeight">
         <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
       <child alias="mouseDrag">
@@ -373,6 +397,10 @@
         <field title="alias">autoHeight</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="alias">mouseDrag</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
@@ -448,6 +476,10 @@
       </child>
       <child alias="autoHeight">
         <field title="alias">autoHeight</field>
+        <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
+      </child>
+      <child alias="touch">
+        <field title="alias">touch</field>
         <field title="modules">a:1:{i:0;s:18:"recommendationlist";}</field>
       </child>
       <child alias="mouseDrag">
